@@ -20,7 +20,7 @@ const Projects = forwardRef((props,ref) => {
 
             
             <div className='w-[260px]'>
-            Developed a full-stack ice cream kiosk application using React for the front end and Node.js/Express for the back end. Implemented features for selecting flavors. Integrated a payment gateway and order tracking system, and ensured a responsive, user-friendly design.
+            Developed a full-stack ice cream kiosk application using HTML, CSS, Javascript for the front end and Node.js/Express for the back end. Implemented features for selecting flavors. ensured a responsive, user-friendly design.
             </div>
         </div>
         <a href="https://github.com/Akansha2004pandey/icecream-station"><IoLogoGithub /></a>
