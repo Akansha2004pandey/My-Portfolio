@@ -16,11 +16,11 @@ const Projects = forwardRef((props,ref) => {
         <img src={image1} alt="" className="w-[260px] h-[300px]"/>
         <div>
             
-               <div className='font-semibold text-xl w-auto py-3 '>Icecream-kiosk</div>
+               <div className='font-semibold text-xl w-auto py-3 '>Scoop Station</div>
 
             
             <div className='w-[260px]'>
-            Developed a full-stack ice cream kiosk application using HTML, CSS, Javascript for the front end and Node.js/Express for the back end. Implemented features for selecting flavors. ensured a responsive, user-friendly design.
+            Developed a full-stack ice cream station application using HTML, CSS, Javascript for the front end and Node.js/Express for the back end. Implemented features for selecting flavors. ensured a responsive, user-friendly design.
             </div>
         </div>
         <a href="https://github.com/Akansha2004pandey/icecream-station"><IoLogoGithub /></a>
