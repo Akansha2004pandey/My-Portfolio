@@ -21,62 +21,62 @@ const Technologies = forwardRef((props,ref) => {
     <div ref={ref}>
        
     <div className='text-3xl font-semibold  text-white px-3 py-3 flex  justify-center bg-gradient-to-r from-black  to-gray-800'><div className='px-4'>Techstack</div> <GrTechnology /></div>
-    <div className="carousel py-8 ">
-    <div className="carousel-item flex flex-col ">
+    <div className=" py-8 flex flex-wrap justify-center ">
+    <div className=" flex flex-col flex-wrap">
     <img src={image12} alt="Burger" className='w-36 h-36 p-4 m-8 shadow-2xl rounded-md' />
    
   </div> 
-  <div className="carousel-item flex flex-col" >
+  <div className=" flex flex-col" >
    
     <img src={image13} alt="Burger" className='w-36 h-36 p-4 m-8 shadow-2xl rounded-md'/>
     
   </div> 
-  <div className="carousel-item flex flex-col ">
+  <div className=" flex flex-col ">
     <img src={image2} alt="Burger" className='w-36 h-36 p-4 m-8 shadow-2xl rounded-md' />
 
   </div> 
-  <div className="carousel-item flex flex-col" >
+  <div className=" flex flex-col" >
 
     <img src={image3} alt="Burger" className='w-36 h-36 p-4 m-8 shadow-2xl rounded-md'/>
     
   </div> 
-  <div className="carousel-item flex flex-col">
+  <div className=" flex flex-col">
     <img src={image4} alt="Burger" className='w-36 h-36 p-4 m-8 shadow-2xl rounded-md'/>
 
   </div> 
-  <div className="carousel-item flex flex-col">
+  <div className=" flex flex-col">
  
     <img src={image1} alt="Burger" className='w-36 h-36 p-4 m-8 shadow-2xl rounded-md'/>
    
   </div> 
-  <div className="carousel-item flex flex-col">
+  <div className=" flex flex-col">
     <img src={image5} alt="Burger" className='w-36 h-36 p-4 m-8 shadow-2xl rounded-md'/>
    
   </div> 
-  <div className="carousel-item flex flex-col">
+  <div className=" flex flex-col">
  
     <img src={image6} alt="Burger" className='w-36 h-36 p-4 m-8 shadow-2xl rounded-md'/>
     
   </div> 
-  <div className="carousel-item flex flex-col">
+  <div className=" flex flex-col">
     <img src={image7} alt="Burger" className='w-36 h-36 p-4 m-8 shadow-2xl rounded-md'/>
 
   </div>
-  <div className="carousel-item flex flex-col">
+  <div className=" flex flex-col">
 
     <img src={image10} alt="Burger" className='w-36 h-36 p-4 m-8 shadow-2xl rounded-md'/>
     
   </div> 
-  <div className="carousel-item flex flex-col">
+  <div className=" flex flex-col">
     <img src={image11} alt="Burger" className='w-36 h-36 p-4 m-8 shadow-2xl rounded-md'/>
 
   </div>
-  <div className="carousel-item flex flex-col">
+  <div className="flex flex-col">
 
     <img src={image9} alt="Burger" className='w-36 h-36 p-4 m-8 shadow-2xl rounded-md'/>
     
   </div> 
-  <div className="carousel-item flex flex-col">
+  <div className=" flex flex-col">
     <img src={image8} alt="Burger" className='w-36 h-36 p-4 m-8 shadow-2xl rounded-md'/>
 
   </div>
