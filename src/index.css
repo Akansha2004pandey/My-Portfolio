@@ -3,6 +3,7 @@
 @tailwind utilities;
 
 
+
 *{
   margin:0;
 }
@@ -13,6 +14,8 @@
   .education{
     display:flex;
     flex-direction: column;
+    align-items:center;
+
     
   }
   .long{
