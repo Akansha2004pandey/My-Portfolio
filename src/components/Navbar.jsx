@@ -14,7 +14,7 @@ const Navbar = ({ handleScrollToSection, homeref, aboutref, projectsref, contact
            
          </ul>
          <details className="dropdown toggler">
-        <summary className="m-20 btn text-2xl"><GiHamburgerMenu /></summary>
+        <summary className="mx-20 my-5 btn text-2xl"><GiHamburgerMenu /></summary>
         <ul className="shadow menu dropdown-content z-[1] bg-base-100 rounded-box w-52">
           <li><a href="#" onClick={() => handleScrollToSection(homeref)}>Home</a></li>
           <li><a href="#about" onClick={() => handleScrollToSection(aboutref)}>About</a></li>
