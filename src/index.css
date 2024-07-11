@@ -3,7 +3,6 @@
 @tailwind utilities;
 
 
-
 *{
   margin:0;
 }
@@ -15,8 +14,12 @@
     display:flex;
     flex-direction: column;
     align-items:center;
-
     
+    
+  }
+  .education .card{
+    width:300px;
+    margin-bottom:15px;
   }
   .long{
     display: none;
